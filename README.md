@@ -1,7 +1,7 @@
 # COVID-19 Data Analysis Project
 
 ## Project Description
-This project analyzes COVID-19 data to explore and visualize trends in cases, deaths, and vaccinations across different countries of interest(Kenya, USA, and India). The analysis provides insights into the progression of the pandemic, comparing impacts across regions and examining vaccination rollouts.
+This project analyzes COVID-19 data to explore and visualize trends in cases, deaths, and vaccinations across different countries of interest (Kenya, USA, and India). The analysis provides insights into the progression of the pandemic, comparing impacts across regions and examining vaccination rollouts.
 
 ## Objectives
 - Load and clean COVID-19 data from Our World in Data
