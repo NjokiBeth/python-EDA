@@ -35,7 +35,7 @@ The analysis uses the COVID-19 dataset from Our World in Data, which includes:
 2. **Setup**:
    ```bash
    # Clone the repository (if applicable)
-   git clone [repository-url]
+   git clone [[repository-url]](https://github.com/NjokiBeth/python-EDA.git)
    
    # Install required packages
    pip install pandas matplotlib seaborn
